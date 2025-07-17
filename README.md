@@ -6,8 +6,5 @@ Simple examples to understand Java multithreading concepts like:
 - Runnable interface
 - Thread operations (start(), run())
 - Daemon thread
+- producer consumer problem
 
-- Files
-MyThread.java – Thread using Thread class
-MyAnotherThread.java – Thread using Runnable interface
-DaemonExample.java – Demonstrates a daemon thread
